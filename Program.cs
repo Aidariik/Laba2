@@ -10,6 +10,7 @@ namespace OOP
             int b = int.Parse(Console.ReadLine());
             double c = Math.Sqrt(a*a + b*b);
             System.Console.WriteLine(c);
+            System.Console.Writeline("Kak dela?");
         }
     }
 }
