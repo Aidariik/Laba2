@@ -11,6 +11,11 @@ namespace OOP
             double c = Math.Sqrt(a1*b + b*a1);
             System.Console.WriteLine(c);
             System.Console.Writeline("Kak dela?");
+            System.Console.Writeline("Kak dela?");
+            System.Console.Writeline("Kak dela?");
+            System.Console.Writeline("Kak dela?");
+            System.Console.Writeline("Kak dela?");
+            
         }
     }
 }
