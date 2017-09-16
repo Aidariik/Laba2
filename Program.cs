@@ -15,6 +15,14 @@ namespace OOP
             System.Console.Writeline("Kak dela?");
             System.Console.Writeline("Kak dela?");
             System.Console.Writeline("Kak dela?");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
+            System.Console.Writeline("Kqeqeqe");
             
         }
     }
