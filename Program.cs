@@ -10,11 +10,11 @@ namespace OOP
             int b = int.Parse(Console.ReadLine());
             double c = Math.Sqrt(a1*b + b*a1);
             System.Console.WriteLine(c);
-            System.Console.Writeline("Kak dela?");
-            System.Console.Writeline("Kak dela?");
-            System.Console.Writeline("Kak dela?");
-            System.Console.Writeline("Kak dela?");
-            System.Console.Writeline("Kak dela?");
+            System.Console.Write("Let the bodies hit the floor");
+            System.Console.Writeline("Let the bodies hit the floor");
+            System.Console.Writeline("Let the bodies hit the floor");
+            System.Console.Writeline("Let the bodies hit the ...");
+            System.Console.Writeline("Floooooooooooooooor!");
             
         }
     }
