@@ -15,7 +15,7 @@ namespace OOP
             System.Console.Writeline("Let the bodies hit the floor");
             System.Console.Writeline("Let the bodies hit the ...");
             System.Console.Writeline("Floooooooooooooooor!");
-            
+	    System.Console.Writeline("Chorus:Here we go,here we go")            
         }
     }
 }
