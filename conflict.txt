@@ -1,7 +1,7 @@
 #include < stdio.h >
 #include < unistd.h >
 
-int = 7;
+double t=0.1;
 
 int main (void)
 {
